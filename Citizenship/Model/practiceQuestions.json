@@ -1,0 +1,608 @@
+{
+    "practice_one": [
+        {
+            "question": "What outcome and significance did War of 1812 with USA have for Canada?",
+            "options": [
+                "Canada became part of the USA",
+                "Canada kept it’s independence from the USA",
+                "Canada lost a lot of land in the war",
+                "Canada became an independent country"
+            ],
+            "answer": "Canada kept it’s independence from the USA"
+        },
+        {
+            "question": "British Columbia is known as Canada’s Pacific Gateway Because?",
+            "options": [
+                "It is on the Pacific coast",
+                "Immigrants arrive from the Pacific Ocean",
+                "Goods are shipped to and from the Asia",
+                "Fishing industry relies on the Pacific Ocean"
+            ],
+            "answer": "Goods are shipped to and from the Asia"
+        },
+        {
+            "question": "Who is governing Canada at the federal level on a daily basis?",
+            "options": [
+                "A hereditary Sovereign (Queen or King)",
+                "Members of Parliament",
+                "Governor General of Canada",
+                "Head of government (Prime Minister)"
+            ],
+            "answer": "Head of government (Prime Minister)"
+        },
+        {
+            "question": "After the  ‘Quebec Act of 1774’ was passed, which of the following is true?",
+            "options": [
+                "Act allowed to worship catholic religion",
+                "Act allowed Quebec to be independent",
+                "Act added French as official language",
+                "Act let people to live legally in Quebec"
+            ],
+            "answer": "Act allowed to worship catholic religion"
+        },
+        {
+            "question": "What are the Atlantic Provinces?",
+            "options": [
+                "NFL, PEI, NS & NB",
+                "NS, PEI, NFL & ONTARIO",
+                "NB, NS, PEI & QUEBEC",
+                "NFL, NB, PEI & QUEBEC"
+            ],
+            "answer": "NFL, PEI, NS & NB"
+        },
+        {
+            "question": "Which is NOT true about Canada’s relationship with USA?",
+            "options": [
+                "Canada exports very little to USA",
+                "Countries have largest undefended border",
+                "5 Great Lakes lies Between Ontario & USA",
+                "Exports energy, agricultural & forestry products"
+            ],
+            "answer": "Canada exports very little to USA"
+        },
+        {
+            "question": "Which four provinces first formed Confederation?",
+            "options": [
+                "Quebec, Ontario, NB & NS",
+                "Ontario, NFL, Quebec & NS",
+                "Ontario, NB, NS & British Columbia",
+                "Ontario, Quebec, Manitoba & NS"
+            ],
+            "answer": "Quebec, Ontario, NB & NS"
+        },
+        {
+            "question": "What is the meaning of national motto ‘A Mari Usque Ad Mare’ in Latin?",
+            "options": [
+                "From land to land",
+                "From coast to coast",
+                "From sea to sea",
+                "From land to sea"
+            ],
+            "answer": "From sea to sea"
+        },
+        {
+            "question": "Fatima is a new immigrant to Canada, and she can choose to take a job like any man because?",
+            "options": [
+                "Equality between French and English",
+                "Equality of women & men in Canada",
+                "She has a university degree",
+                "She came from United Kingdom"
+            ],
+            "answer": "Equality of women & men in Canada"
+        },
+        {
+            "question": "Which religion does the great majority of Canadians belong to?",
+            "options": [
+                "Islam",
+                "Christianity",
+                "Hinduism",
+                "Judaism"
+            ],
+            "answer": "Christianity"
+        },
+        {
+            "question": "What role do the police in Canada play?",
+            "options": [
+                "They maintain the traffic in city",
+                "They settle disputes",
+                "They make the laws",
+                "They enforce the laws"
+            ],
+            "answer": "They enforce the laws"
+        },
+        {
+            "question": "Whom do you vote for in a federal elections?",
+            "options": [
+                "Council members",
+                "Senators",
+                "Members of the Assembly",
+                "Members of Parliament"
+            ],
+            "answer": "Members of Parliament"
+        },
+        {
+            "question": "How do you vote in a federal elections?",
+            "options": [
+                "By secret ballot",
+                "By raised hand",
+                "By computer",
+                "By telephone"
+            ],
+            "answer": "By secret ballot"
+        },
+        {
+            "question": "What is NOT a responsibility of a Canadian Citizen?",
+            "options": [
+                "Protecting & enjoying our heritage & environment",
+                "Obeying the law",
+                "Serving on a jury",
+                "Learning to speak both official languages"
+            ],
+            "answer": "Learning to speak both official languages"
+        },
+        {
+            "question": "What is one of the requirements to vote in federal election?",
+            "options": [
+                "Must be a Canadian resident",
+                "Must be on a voter’s list",
+                "At least 16 years old on voting day",
+                "Must be living in Canada for past 3 years"
+            ],
+            "answer": "Must be on a voter’s list"
+        }],
+    
+    "practice_two": [
+        {
+            "question": "What are three branches of government?",
+            "options": [
+                "The Queen, House of Commons & Senate",
+                "The Executive, Legislative & Judicial",
+                "The Prime Minister, Cabinet & Police",
+                "The Queen or King, Parliament & Courts"
+            ],
+            "answer": "The Executive, Legislative & Judicial"
+        },
+        {
+            "question":"What is the significance of the Canadian discovery of insulin?",
+            "options": [
+                "It saved lives of people with diabetes",
+                "It helped the treatment of heart diseases",
+                "It saved lives of children with sickness",
+                "It saved soldier’s life during WWII"
+            ],
+            "answer":  "It saved lives of people with diabetes"
+        },
+        {
+            "question":"Why is it important that everyone is innocent until proven guilty?",
+            "options": [
+                "Only judge can presume a person to be guilty",
+                "The prison has less people",
+                "Everyone is entitled to due process under the law",
+                "The police takes time to investigate the case"
+            ],
+            "answer":"Everyone is entitled to due process under the law"
+        },
+        {
+            "question":"Which three oceans surround Canada?",
+            "options": [
+                "Atlantic, Pacific and Arctic Oceans",
+                "Atlantic, Indian and Pacific Oceans",
+                "Arctic, North Atlantic and Indian Oceans",
+                "Arctic, Pacific and Indian Oceans"
+            ],
+            "answer": "Atlantic, Pacific and Arctic Oceans"
+        },
+        {
+            "question":"On the general Election Day, who do you vote for?",
+            "options": [
+                "Council members ",
+                "Senators of the Parliament",
+                "Governor General of Canada",
+                "Member of Parliament in your constituency"
+            ],
+            "answer":"Member of Parliament in your constituency"
+        },
+        {
+            "question": "Why trading with other nations is important to Canada?",
+            "options": [
+                "To make the Canadian forces more powerful",
+                "To maintain our standard of living",
+                "To replenish our natural resources",
+                "To increase the productivity of Canada"
+            ],
+            "answer":"To maintain our standard of living"
+        },
+        {
+            "question": "What province is the largest producer of hydroelectricity, pulp and paper?",
+            "options": [
+                "Alberta",
+                "Manitoba",
+                "Ontario",
+                "Quebec"
+            ],
+            "answer": "Quebec"
+        },
+        {
+            "question": "What region is called the ‘Land of the Midnight Sun’?",
+            "options": [
+                "Yukon",
+                "Northwest Territories",
+                "The Northern Territories",
+                "Nunavut"
+            ],
+            "answer":"The Northern Territories"
+        },
+        {
+            "question": "What is the principle that our legal system is based on?",
+            "options": [
+                "New immigrants are exempted from laws",
+                "The laws do not apply to judges & the police",
+                "The court enforces the laws",
+                "Everyone is equal before the laws"
+            ],
+            "answer": "Everyone is equal before the laws"
+        },
+        {
+            "question":"What country is Canada’s largest trading partner?",
+            "options": [
+                "Germany",
+                "China",
+                "Japan",
+                "USA"
+            ],
+            "answer":"USA"
+        },
+        {
+            "question":"What are some of the sources of Canadian citizen’s rights and responsibilities?",
+            "options": [
+                "British North America Act",
+                "War of 1812",
+                "Our history, laws, traditions, identity & values",
+                "NAFTA"
+            ],
+            "answer": "Our history, laws, traditions, identity & values"
+        },
+        {
+            "question":"What is a Voter Information Card?",
+            "options": [
+                "Register you for voting",
+                "A form that tells you where & when to vote",
+                "Let’s you know the voting schedule",
+                "Tells about candidates in your electoral district"
+            ],
+            "answer": "A form that tells you where & when to vote"
+        },
+        {
+            "question": "What is federal government responsible for?",
+            "options": [
+                "National defence, health care & education",
+                "National defence, foreign policy & citizenship",
+                "Education, foreign policy & recycling programs",
+                "Highways, foreign policy & criminal justice"
+            ],
+            "answer": "National defence, foreign policy & citizenship"
+        },
+        {
+            "question": "Who has the right to become a candidate in a federal election?",
+            "options": [
+                "All Canadian citizens",
+                "Canadian citizen 18 years or older",
+                "Business owners who are rich",
+                "All Canadian residents"
+            ],
+            "answer": "Canadian citizen 18 years or older"
+        },
+        {
+            "question": "What principle was Canada’s constitution founded on?",
+            "options": [
+                "Liberty and pursue of freedom",
+                "Liberty, equality and fraternity",
+                "Independence and freedom",
+                "Peace, Order and Good Government"
+            ],
+            "answer": "Peace, Order and Good Government"
+        }],
+    
+    "practice_three": [
+        {
+            "question": "What are the responsibilities of municipal government?",
+            "options": [
+                "Streets & roads, defence & urban transit",
+                "Snow removal, emergency services & highways",
+                "Urban transit, education & firefighting",
+                "Firefighting, recreation facilities & garbage removal"
+            ],
+            "answer": "Firefighting, recreation facilities & garbage removal"
+        },
+        {
+            "question": "Why the Battle of Vimy Ridge is important in Canadian history?",
+            "options": [
+                "It has symbolize Canada’s becoming as a nation",
+                "It was an important victory in the Boer War",
+                "It  was the last battle of the First World War",
+                "Out of it was formed the Canadian Corps"
+            ],
+            "answer":  "It has symbolize Canada’s becoming as a nation"
+        },
+        {
+            "question":"What does NAFTA provide?",
+            "options": [
+                "Free trade between Canada & Mexico",
+                "Free trade between any country & Canada",
+                "Free trade between Canada & USA",
+                "Free trade between Canada, USA & Mexico"
+            ],
+            "answer": "Free trade between Canada, USA & Mexico"
+        },
+        {
+            "question":"What is the meaning of ‘presumption of innocence’ in our judicial system?",
+            "options": [
+                "Everyone is innocent until proven guilty",
+                "Everyone is guilty until proven innocent",
+                "The judges are assumed to be innocent",
+                "Some are innocent while some are guilty"
+            ],
+            "answer":  "Everyone is innocent until proven guilty"
+        },
+        {
+            "question":"What should you do If you do not receive a voter information card before election?",
+            "options": [
+                "Call the police for help",
+                "Contact election Canada",
+                "Tell the Member of Parliament in your riding",
+                "Give up your right to vote"
+            ],
+            "answer": "Contact election Canada"
+        },
+        {
+            "question": "Does the law apply to police, judges, and politicians?",
+            "options": [
+                "It depends on the nature of the crime",
+                "No person or group is above the law",
+                "The police are above the law",
+                "Judges are exempted"
+            ],
+            "answer": "No person or group is above the law"
+        },
+        {
+            "question": "About one third of all Canadians live in which province?",
+            "options": [
+                "Northwest Territories",
+                "British Columbia",
+                "Ontario",
+                "Quebec"
+            ],
+            "answer": "Ontario"
+        },
+        {
+            "question": "How many Canadians have died in wars till now?",
+            "options": [
+                "About 1 million",
+                "About 110,000",
+                "About 50,000",
+                "About 500,000"
+            ],
+            "answer": "About 110,000"
+        },
+        {
+            "question": "What are the two official Languages?",
+            "options": [
+                "French and English",
+                "French and Chinese",
+                "English and German",
+                "British English and Canadian English"
+            ],
+            "answer": "French and English"
+        },
+        {
+            "question":"How are Members of Parliament chosen?",
+            "options": [
+                "Appointed by the Prime Minister",
+                "Appointed by the Governor General",
+                "Elected by the Canadian citizens",
+                "Appointed by the Queen"
+            ],
+            "answer":"Elected by the Canadian citizens"
+        },
+        {
+            "question":"Which two fundamental freedoms are protected by the Canadian Charter of Rights and Freedoms?",
+            "options": [
+                "Aboriginal people’s rights and mobility rights",
+                "Equal employment rights and job opportunities",
+                "Basic living rights and obeying the laws",
+                "Freedom of belief and freedom of religion"
+            ],
+            "answer": "Freedom of belief and freedom of religion"
+        },
+        {
+            "question":"How many provinces are there in Canada?",
+            "options": [
+                "Eight Provinces",
+                "Nine Provinces",
+                "Eleven Provinces",
+                "Ten Provinces"
+            ],
+            "answer": "Ten Provinces"
+        },
+        {
+            "question":"Which city is the capital of Canada?",
+            "options": [
+                "Toronto",
+                "Montreal",
+                "Ottawa",
+                "Vancouver"
+            ],
+            "answer": "Ottawa"
+        },
+        {
+            "question":"What is the house of Commons?",
+            "options": [
+                "Members appointed by the Prime Minister",
+                "Members choose by the Queen or King",
+                "It is part of Parliament",
+                "It governs the country"
+            ],
+            "answer": "It is part of Parliament"
+        },
+        {
+            "question":"Who do we vote for in federal elections?",
+            "options": [
+                "Premier of the Province",
+                "Governor General",
+                "Members of Parliament",
+                "Prime Minister"
+            ],
+            "answer": "Members of Parliament"
+        }],
+    "practice_four": [
+        {
+            "question": "Which of the following matters are responsibilities of provinces?",
+            "options": [
+                "Highways, health care and education",
+                "Natural resources, health and citizenship",
+                "Education,foreign policy & Highways",
+                "Highways and criminal justice"
+            ],
+            "answer": "Highways, health care and education"
+        },
+        {
+            "question": "Which civilization is the biggest part of the Canadian population?",
+            "options": [
+                "Indian and English",
+                "French and English",
+                "Spanish and English",
+                "Asian and English"
+            ],
+            "answer":   "French and English"
+        },
+        {
+            "question":"List two freedoms that Canadians enjoy?",
+            "options": [
+                "Freedom of religion & freedom of love",
+                "Freedom of association & freedom of living",
+                "Freedom of thought & freedom of religion",
+                "Freedom of peaceful & freedom of travel"
+            ],
+            "answer":  "Freedom of thought & freedom of religion"
+        },
+        {
+            "question":"What are the Prairie Provinces?",
+            "options": [
+                "Saskatchewan and Manitoba",
+                "Saskatchewan, Alberta and BC",
+                "Saskatchewan, Alberta and Manitoba",
+                "Alberta, Manitoba and BC"
+            ],
+            "answer":  "Saskatchewan, Alberta and Manitoba"
+        },
+        {
+            "question":"Which province is the most easterly point in Canada?",
+            "options": [
+                "New Brunswick",
+                "Newfoundland and Labrador",
+                "Nova Scotia",
+                "Prince Edward Island"
+            ],
+            "answer":  "Newfoundland and Labrador"
+        },
+        {
+            "question": "How can you vote in an election if you are going out of the country?",
+            "options": [
+                "Vote at the advance polls or by special ballot",
+                "You can vote by mail",
+                "You can give your right to vote",
+                "Vote when you are in a foreign country"
+            ],
+            "answer": "No person or group is above the law"
+        },
+        {
+            "question": "What province is largest producer of oil and gas?",
+            "options": [
+                "British Columbia",
+                "Alberta",
+                "Ontario",
+                "Quebec"
+            ],
+            "answer": "Alberta"
+        },
+        {
+            "question": "Why did Canada Declare war on Germany in World War II?",
+            "options": [
+                "To defeat Adolf Hitler’s Nazi tyranny",
+                "To promote peace in Europe",
+                "To conquer the European countries",
+                "To fight Communism in the world"
+            ],
+            "answer": "To defeat Adolf Hitler’s Nazi tyranny"
+        },
+        {
+            "question": "A Member of Parliament from Montreal decided to spend the weekend in her electoral district. This means she will be?",
+            "options": [
+                "Taking a tour in the province of Quebec",
+                "In part of Montreal where she was elected",
+                "In Ottawa to prepare for an election",
+                "In Quebec city to visit her friends"
+            ],
+            "answer":"In part of Montreal where she was elected"
+        },
+        {
+            "question":"Who was the first Prime Minister of Canada?",
+            "options": [
+                "Louis Riel",
+                "George-Etienne Cartier",
+                "George Washington",
+                "John Alexander Macdonald"
+            ],
+            "answer": "John Alexander Macdonald"
+        },
+        {
+            "question":"Who were the founding people of Canada?",
+            "options": [
+                "Aboriginal, French and British",
+                "French and British",
+                "French, British and American",
+                "British, American and Aboriginal"
+            ],
+            "answer": "Aboriginal, French and British"
+        },
+        {
+            "question":"Who are partners in the NAFTA agreement?",
+            "options": [
+                "United States and Japan",
+                "United States and Mexico",
+                "United States, Russia and Mexico",
+                "United Kingdom and United States"
+            ],
+            "answer": "United States and Mexico"
+        },
+        {
+            "question":"How do you mark a ballot?",
+            "options": [
+                "A circle over the name of a candidate",
+                "Write your name and home address",
+                "An ‘X’ beside your name",
+                "An ‘X’ beside the name of a candidate"
+            ],
+            "answer": "An ‘X’ beside the name of a candidate"
+        },
+        {
+            "question":"The significance of Canada Day is because it is?",
+            "options": [
+                "The day Canada defeated the USA in a war",
+                "The birthday of the Queen",
+                "To celebrate as self-governing Dominion",
+                "The day Canada passed the new constitution"
+            ],
+            "answer": "To celebrate Canada as self-governing Dominion"
+        },
+        {
+            "question":"What were the three industries that helped early settlers build communities in the Atlantic region?",
+            "options": [
+                "Fish farming, shipbuilding & brewing",
+                "Farming, fishing & shipbuilding",
+                "Fishing, brewing & shipbuilding",
+                "Milling, brewing & Fishing"
+            ],
+            "answer": "Farming, fishing & shipbuilding"
+        }]
+}
