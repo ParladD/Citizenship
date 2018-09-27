@@ -15,6 +15,8 @@
 		4D83E0362148584E00191D7C /* ParentController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4D83E0352148584E00191D7C /* ParentController.swift */; };
 		4DBABFC9215C48B90003B7A9 /* UIColor+extensions.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4DBABFC8215C48B90003B7A9 /* UIColor+extensions.swift */; };
 		4DBABFD1215D2DFB0003B7A9 /* longAnswers.json in Resources */ = {isa = PBXBuildFile; fileRef = 4DBABFD0215D2DFB0003B7A9 /* longAnswers.json */; };
+		4DBABFD7215D389F0003B7A9 /* ProgressHUD.m in Sources */ = {isa = PBXBuildFile; fileRef = 4DBABFD5215D389F0003B7A9 /* ProgressHUD.m */; };
+		4DBABFD8215D389F0003B7A9 /* ProgressHUD.bundle in Resources */ = {isa = PBXBuildFile; fileRef = 4DBABFD6215D389F0003B7A9 /* ProgressHUD.bundle */; };
 		4DF029ED215A840B00120E2B /* practiceQuestions.json in Resources */ = {isa = PBXBuildFile; fileRef = 4DF029EC215A840B00120E2B /* practiceQuestions.json */; };
 		4DF96E862146E6C30003D632 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4DF96E852146E6C30003D632 /* AppDelegate.swift */; };
 		4DF96E882146E6C30003D632 /* MainController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4DF96E872146E6C30003D632 /* MainController.swift */; };
@@ -32,6 +34,10 @@
 		4D83E0352148584E00191D7C /* ParentController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ParentController.swift; sourceTree = "<group>"; };
 		4DBABFC8215C48B90003B7A9 /* UIColor+extensions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "UIColor+extensions.swift"; sourceTree = "<group>"; };
 		4DBABFD0215D2DFB0003B7A9 /* longAnswers.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = longAnswers.json; sourceTree = "<group>"; };
+		4DBABFD3215D389E0003B7A9 /* Citizenship-Bridging-Header.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Citizenship-Bridging-Header.h"; sourceTree = "<group>"; };
+		4DBABFD4215D389F0003B7A9 /* ProgressHUD.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ProgressHUD.h; sourceTree = "<group>"; };
+		4DBABFD5215D389F0003B7A9 /* ProgressHUD.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ProgressHUD.m; sourceTree = "<group>"; };
+		4DBABFD6215D389F0003B7A9 /* ProgressHUD.bundle */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.plug-in"; path = ProgressHUD.bundle; sourceTree = "<group>"; };
 		4DF029EC215A840B00120E2B /* practiceQuestions.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = practiceQuestions.json; sourceTree = "<group>"; };
 		4DF96E822146E6C30003D632 /* Citizenship.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Citizenship.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		4DF96E852146E6C30003D632 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
@@ -98,6 +104,17 @@
 			path = Controllers;
 			sourceTree = "<group>";
 		};
+		4DBABFD2215D37DA0003B7A9 /* supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				4DBABFD6215D389F0003B7A9 /* ProgressHUD.bundle */,
+				4DBABFD4215D389F0003B7A9 /* ProgressHUD.h */,
+				4DBABFD5215D389F0003B7A9 /* ProgressHUD.m */,
+				4DBABFD3215D389E0003B7A9 /* Citizenship-Bridging-Header.h */,
+			);
+			path = "supporting Files";
+			sourceTree = "<group>";
+		};
 		4DF96E792146E6C30003D632 = {
 			isa = PBXGroup;
 			children = (
@@ -117,6 +134,7 @@
 		4DF96E842146E6C30003D632 /* Citizenship */ = {
 			isa = PBXGroup;
 			children = (
+				4DBABFD2215D37DA0003B7A9 /* supporting Files */,
 				4D7656A62149AD3400182D9A /* utils */,
 				4D7656A121499EFE00182D9A /* views */,
 				4D76569421498ACF00182D9A /* Model */,
@@ -192,6 +210,7 @@
 			files = (
 				4DF029ED215A840B00120E2B /* practiceQuestions.json in Resources */,
 				4DF96E902146E6C60003D632 /* LaunchScreen.storyboard in Resources */,
+				4DBABFD8215D389F0003B7A9 /* ProgressHUD.bundle in Resources */,
 				4DF96E8D2146E6C60003D632 /* Assets.xcassets in Resources */,
 				4DF96E8B2146E6C30003D632 /* Main.storyboard in Resources */,
 				4DBABFD1215D2DFB0003B7A9 /* longAnswers.json in Resources */,
@@ -207,6 +226,7 @@
 			files = (
 				4DF96E882146E6C30003D632 /* MainController.swift in Sources */,
 				4DF96E862146E6C30003D632 /* AppDelegate.swift in Sources */,
+				4DBABFD7215D389F0003B7A9 /* ProgressHUD.m in Sources */,
 				4D76569E2149908A00182D9A /* PracticeController.swift in Sources */,
 				4D7656A021499C8B00182D9A /* TestController.swift in Sources */,
 				4D83E0342148576E00191D7C /* UIButton+extension.swift in Sources */,
@@ -357,6 +377,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CLANG_ENABLE_MODULES = YES;
 				CODE_SIGN_STYLE = Automatic;
 				INFOPLIST_FILE = Citizenship/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
@@ -365,6 +386,8 @@
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = com.parlad.Citizenship;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_OBJC_BRIDGING_HEADER = "Citizenship/supporting Files/Citizenship-Bridging-Header.h";
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
 				SWIFT_VERSION = 4.2;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
@@ -374,6 +397,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CLANG_ENABLE_MODULES = YES;
 				CODE_SIGN_STYLE = Automatic;
 				INFOPLIST_FILE = Citizenship/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
@@ -382,6 +406,7 @@
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = com.parlad.Citizenship;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_OBJC_BRIDGING_HEADER = "Citizenship/supporting Files/Citizenship-Bridging-Header.h";
 				SWIFT_VERSION = 4.2;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};

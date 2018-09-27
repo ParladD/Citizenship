@@ -22,8 +22,8 @@ class FileReader {
             do{
                  data = try Data(contentsOf: url)
             }
-            catch let error as NSError {
-                print("error occurred: ", error)
+            catch {
+                ProgressHUD.showError("Opps something went wrong")
             }
 
         }

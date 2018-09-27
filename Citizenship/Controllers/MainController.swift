@@ -12,12 +12,8 @@ class MainController: ParentController {
     
     //MARK:- IBOulets and properties
     
-    let practiceQuestions = "practiceQuestions"
-    var practiceQuestionData: Data {
-        return FileReader.shared.readFile(filePath: practiceQuestions)
-    }
-    var questions: Questions?
-    var testQuestions = [Result]()
+
+    var questions = [Result]()
     
     
     @IBOutlet weak var practiceButton: UIButton!
@@ -39,23 +35,8 @@ class MainController: ParentController {
     
     
     @IBAction func testButtonPressed(_ sender: Any) {
-     
-        testQuestions.removeAll()
-        if let question = questions {
-            let practiceFour = question.practice_four.shuffled()
-            let practiceThree = question.practice_three.shuffled()
-            let practiceTwo = question.practice_two.shuffled()
-            let practiceOne = question.practice_one.shuffled()
-            
-            for x in 0...4{
-                
-                self.testQuestions.append(practiceFour[x])
-                self.testQuestions.append(practiceThree[x])
-                self.testQuestions.append(practiceTwo[x])
-                self.testQuestions.append(practiceOne[x])
-            }
-        }
         performSegue(withIdentifier: "segueToTest", sender: self)
+        
     }
     
     
@@ -65,14 +46,6 @@ class MainController: ParentController {
         practiceButton.setRadius(of: 8)
         testButton.setRadius(of: 8)
         longQuestionButton.setRadius(of: 8)
-        
-        do{
-            questions = try JSONDecoder().decode(Questions.self, from: practiceQuestionData)
-            
-        }catch let error as NSError {
-            print(error)
-        }
-        
     }
     
     override func prepare(for segue: UIStoryboardSegue, sender: Any?) {
@@ -84,8 +57,6 @@ class MainController: ParentController {
         }else if segue.identifier == "segueToTest"{
             let testController = segue.destination as? TestController
             testController?.NavigationTitle = "Test Questions"
-            testController?.questions = testQuestions
-          
         }
         
     }
